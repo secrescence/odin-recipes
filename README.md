@@ -1,3 +1,3 @@
-Build a basic recipe website
+Build a basic recipe website.
 
-Demonstrate basic html structure and html tags
+Demonstrate basic html structure and html tags.
