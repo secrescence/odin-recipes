@@ -1,0 +1,72 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(/images/background.jpg);
+    text-align: center;
+}
+
+
+.title,
+.home-title {
+    font-family: 'Baloo 2';
+    font-size: 50px;
+}
+
+.subtitle,
+.recipe-list {
+    font-family: 'Inter', sans-serif;
+    padding-bottom: 15px;
+}
+
+
+img {
+    background-color: black;
+    border-radius: 5px;
+    padding: 3px;
+}
+
+
+.recipe {
+    padding: 15px;
+    padding-top: 30px;
+    display: inline-block;
+}
+
+.ingredients,
+.steps {
+    margin: 30px;
+}
+
+.description {
+    margin: 0 100px;
+}
+
+li,
+ul {
+    list-style-type: none;
+}
+
+.back-home {
+    text-align: left;
+    margin: 20px;
+}
+
+
+a:link,
+a:visited {
+    background-color: rgb(218, 170, 109);
+    color: black;
+    padding: 14px 25px;
+    text-decoration: none;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+a:hover,
+a:active {
+    background-color: rgb(219, 164, 93);
+}
